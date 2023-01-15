@@ -1,6 +1,6 @@
 ### WebSite-GuessNumber 
 
-> Single person guessing game, a random number is generated and hidden, the lowest number of guesses to the correct answer the better.
+> Retro looking single person guessing game, a random number is generated and hidden, the lowest number of guesses to the correct answer the better.
 
 > Live demo  ==>  Working on it, still not live at the moment.
 
