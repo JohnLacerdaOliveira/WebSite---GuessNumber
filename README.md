@@ -1,0 +1,46 @@
+### WebSite-GuessNumber 
+
+> Single person guessing game, a random number is generated and hidden, the lowest number of guesses to the correct answer the better.
+
+> Live demo  ==>  Working on it, still not live at the moment.
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+
+
+## General Information
+Simple web based game intended as a personal challenge in the initall stages of my web development journey.  
+
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+
+## Screenshots
+![Game ScreenShot 1](./ScreenShots/ScreenShot1.png)
+![Game ScreenShot 2](./ScreenShots/ScreenShot2.png)
+![GameLogic Diagram](./ScreenShots/ScreenShot3.png)
+
+## Setup
+Given that the project is not yet hosted on a server you'll have to download this repository's contents to your computer and open the file index.HTML with the browser of your choice. 
+
+
+## Project Status
+Project is fully functioning and finished.
+
+
+## Room for Improvement
+Functionality wise the game will always be what it is, regarding the UI/UX it could always be better and more refined.
+
+
+## Acknowledgements
+- This project was based on a challenge found on [this course](shorturl.at/dG289).
+- Many thanks to Jonas Schmedtmann and it's great teaching
